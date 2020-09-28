@@ -6,4 +6,3 @@ belongs_to :actor
     "#{self.name} always says: #{self.catchphrase}"
   end
 end
- 
